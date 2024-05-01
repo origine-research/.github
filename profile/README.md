@@ -26,6 +26,7 @@ their needs.
 
 ## Origine resources
 ### [1.Project Guidelines](https://github.com/origine-research/project-guidelines) 
+### [2.About Github project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) 
 
 ## Contact us
 ### Website 

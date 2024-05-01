@@ -24,6 +24,9 @@ skin type through an AI model. Our founders are like the
 sandpiper bird always looking for unique solutions for
 their needs.
 
+## Origine resources
+### [1.Project Guidelines](https://github.com/origine-research/project-guidelines) 
+
 ## Contact us
 ### Website 
 [originesecret.com](https://originesecret.com)
